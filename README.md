@@ -1,4 +1,4 @@
-# SberPaySdkDoc
+# SberPaySdkIOSDoc
 
 ### SberPay SDK
 
