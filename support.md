@@ -34,4 +34,4 @@
 
 <img src="docs/assets/img/success-pay.png" width="200"> <img src="docs/assets/img/fail-pay.png" width="200">
 
-- В коллбеке методов оплаты: <br>Структура [PaymentResult](https://sdkpay.github.io/SberPaySdkAndroidDoc/data_structures#paymentresult)
+- В коллбеке методов оплаты: <br>Структура [PaymentResult](https://sdkpay.github.io/SberPaySdkIOSDoc/data_structures#spaystate)
