@@ -6,8 +6,8 @@
 
 # Регистрация заказов в платежном шлюзе Сбера
 
-#### [Для платежного шлюза с эндпоинтом 3dsec.sberbank.ru и ecommerce.sberbank.ru](https://sdkpay.github.io/SberPaySdkAndroidDoc/order_registration#%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE-%D1%88%D0%BB%D1%8E%D0%B7%D0%B0-%D1%81-%D1%8D%D0%BD%D0%B4%D0%BF%D0%BE%D0%B8%D0%BD%D1%82%D0%BE%D0%BC-3dsecsberbankru-%D0%B8-ecommercesberbankru)
-#### [Для подключения на платежном шлюзе ЮМани](https://sdkpay.github.io/SberPaySdkAndroidDoc/order_registration#%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%BD%D0%BE%D0%BC-%D1%88%D0%BB%D1%8E%D0%B7%D0%B5-%D1%8E%D0%BC%D0%B0%D0%BD%D0%B8-1)
+#### [Для платежного шлюза с эндпоинтом 3dsec.sberbank.ru и ecommerce.sberbank.ru](https://sdkpay.github.io/SberPaySdkIOSDoc/order_registration#%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE-%D1%88%D0%BB%D1%8E%D0%B7%D0%B0-%D1%81-%D1%8D%D0%BD%D0%B4%D0%BF%D0%BE%D0%B8%D0%BD%D1%82%D0%BE%D0%BC-3dsecsberbankru-%D0%B8-ecommercesberbankru)
+#### [Для подключения на платежном шлюзе ЮМани](https://sdkpay.github.io/SberPaySdkIOSDoc/order_registration#%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%BD%D0%BE%D0%BC-%D1%88%D0%BB%D1%8E%D0%B7%D0%B5-%D1%8E%D0%BC%D0%B0%D0%BD%D0%B8-1)
 
 <br>
 
