@@ -16,8 +16,6 @@
 
 Для корректной работы SDK в файле **info.plist** приложения должны быть добавлены следующие параметры
 ```
-<key>DTXAutoStart</key>
-<string>false</string>
 <key>NSAppTransportSecurity</key>
 <dict>
   <key>NSExceptionDomains</key>
@@ -108,11 +106,13 @@ let window = UIWindow(frame: UIScreen.main.bounds)
 self.window = window
 
   SPay.setup(bnplPlan: true,
+             spasiboBonuses: true,
              resultViewNeeded: true,
              helpers: true,
              needLogs: true,
              helperConfig: SBHelperConfig(sbp: true,
-                                          creditCard:true),
+                                          creditCard: true,
+                                      debitCard: true),
              environment: .prod) { error in
             if let error {
                 // Ошибка инициализации SDK
@@ -130,11 +130,13 @@ return true
 
 SConfig *config = [[SConfig alloc] initWithSbp:true creditCard:true debitCard:true];
 
-     [SPay setupWithBnplPlan:true
-                    helpers:true
-               helperConfig: config
-                environment: SEnvironmentProd
-                  completion:nil];
+     [SPay setupWithBnplPlan: true
+                     helpers: true
+            resultViewNeeded: true
+              spasiboBonuses: true
+                helperConfig: config
+                 environment: SEnvironmentProd
+                  completion: nil];
 
 return YES;
 
