@@ -52,9 +52,22 @@
 
 <br>
 
+## SpaymentResult
+
+#### Класс результата выполнения оплаты
+
+|Параметр|Тип|Описание|
+|---|:---:|---|
+|state|SPayState|Возможные состояния завершения оплаты.<br> Структура [SPayState](https://sdkpay.github.io/SberPaySdkIOSDoc/data_structures#spaystate)|
+|localSessionId|String|Уникальный идентификатор сессии. [Больше информации](https://sdkpay.github.io/SberPaySdkIOSDoc/support#localsessionid)|
+|bankInvoiceId|String|Уникальный номер заказа на стороне банка|
+|description|String|Описание завершения сценария|
+
+<br>
+
 ## SPayState
 
-#### Класс, служащий для передачи состояния оплаты
+####  Возможные состояния завершения оплаты
 
 |Возможные состояния|Obj-C|Описание|
 |---|:---:|---|
